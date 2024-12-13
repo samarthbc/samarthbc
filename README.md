@@ -39,12 +39,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/unknownalien1/unknownalien1/output/snake.svg" alt="Snake animation" />
-
-###
-
-<p align="left">I am a Machine Learning and Cybersecurity enthusiasist having profieciency in frame works like PyTorch and tools like Kali Linux.<br><br>I have made projects in web development using MERN and Django.</p>
-
-###
