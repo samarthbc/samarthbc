@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Samarth</h1>
 <h3 align="center">A proficient web developer, exploring ML and Cybersecurity</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=unknownalien1&label=Profile%20views&color=0e75b6&style=flat" alt="unknownalien1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samarthbc&label=Profile%20views&color=0e75b6&style=flat" alt="unknownalien1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unknownalien1" alt="unknownalien1" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samarthbc" alt="unknownalien1" /></a> </p>
 
 - 🌱 I’m currently learning **Pytorch**
 
