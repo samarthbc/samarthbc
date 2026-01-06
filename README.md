@@ -70,9 +70,9 @@ A cyberpunk engineer exploring code, security, and intelligence beyond Earth.
 
 ## 📊 Galactic Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samarthbc&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=samarthbc&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samarthbc&theme=tokyonight">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samarthbc&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
