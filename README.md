@@ -70,15 +70,19 @@ A cyberpunk engineer exploring code, security, and intelligence beyond Earth.
 
 ## 📊 Galactic Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samarthbc&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://metrics.lecoq.io/samarthbc?template=terminal&config.timezone=Asia/Kolkata" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samarthbc&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🐍 Neural Activity Map
-![snake gif](https://github.com/samarthbc/samarthbc/blob/output/github-contribution-grid-snake.svg)
+## 🧠 System Capabilities
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,python,linux,tensorflow,pytorch&theme=dark" />
+</p>
+
 
 ---
 
