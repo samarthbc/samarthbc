@@ -68,13 +68,6 @@ A cyberpunk engineer exploring code, security, and intelligence beyond Earth.
 
 ---
 
-## 📊 Galactic Statistics
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samarthbc&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🧠 System Capabilities
 
 <p align="center">
